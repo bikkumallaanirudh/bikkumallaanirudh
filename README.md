@@ -40,7 +40,7 @@ solve real-world problems.
 
 ## 🤝 Let's Connect
 
-- GitHub: https://github.com/YOUR-USERNAME
+- GitHub: https://github.com/bikkumallaanirudh
 
 ---
 
